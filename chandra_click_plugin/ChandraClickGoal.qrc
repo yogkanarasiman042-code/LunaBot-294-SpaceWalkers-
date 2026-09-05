@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="/ChandraClickGoal">
+    <file>ChandraClickGoal.qml</file>
+  </qresource>
+</RCC>
